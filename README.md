@@ -48,5 +48,5 @@ This repository contains a data pipeline designed for managing and analyzing mon
 
   ![image](https://github.com/Sameer1295/SuperStore-Data-Pipeline-In-AWS/assets/29782669/6e3e8a3f-5365-4422-806f-28af2a7b42e3)
 
-  ![image](https://github.com/Sameer1295/SuperStore-Data-Pipeline-In-AWS/assets/29782669/454a84ce-2e9e-4c95-a4bd-fa8837022919)
+  ![image](https://github.com/Sameer1295/SuperStore-Data-Pipeline-In-AWS/assets/29782669/9dbfd382-4fab-415c-bb21-e03e8197849f)
 
